@@ -13,7 +13,7 @@
 
 **********************************************************
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, hack4lx_Tg_session shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+**This tool is a Proof of Concept and is for Educational Purposes Only, Tg_Ex_hack4lx shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
@@ -23,11 +23,14 @@
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
-Description 👀
+Description 👀 Tg_Ex_hack4lx
 
 Title 📌  Hi guys | Today I am at your service with another tutorial | Today's tutorial on Telegram data extraction is the goal| 
 as you know |  Data mining cannot be downloaded for up to 24 hours | This time we are moving away |We will recover all deleted chats and so on
 Well, pay attention to the movie | Thanks | Please introduce our channel to other friends
+
+✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+
 
 💀 Made by ☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️
 
